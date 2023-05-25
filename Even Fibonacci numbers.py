@@ -1,5 +1,5 @@
 def fibonacci_sum(limit):
-    # Initialize variables
+    # Initialize variables test pulling 
     sum = 0
     a, b = 1, 2
 
@@ -11,6 +11,6 @@ def fibonacci_sum(limit):
 
     return sum
 
-# Calculate the sum with a limit of four million
+# Calculate the sum with a limit of four million pull this code
 result = fibonacci_sum(4000000)
 print(result)
